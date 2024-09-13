@@ -17,7 +17,7 @@ require (
 	github.com/docker/cli v24.0.9+incompatible
 	github.com/docker/docker v24.0.9+incompatible
 	github.com/docker/go-connections v0.4.0
-	github.com/gofiber/fiber/v2 v2.52.4
+	github.com/gofiber/fiber/v2 v2.52.5
 	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.9.3
 	github.com/stretchr/testify v1.8.4
